@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-draft: false
+draft: true
 type: docs
 layout: single
 
